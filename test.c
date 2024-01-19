@@ -6,6 +6,6 @@ int main()
     int b = 100;
     int c = a+b;
     printf("Hello World!\n");
-    printf("%d\n",&c);
+    printf("Number is %d!\n",c);
     return 0;
 }
